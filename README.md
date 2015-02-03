@@ -2,4 +2,4 @@
 
 This contains documentation for AvrMiniCopter project.
 
-<a href="https://github.com/rpicopter/AvrMiniCopter-wiki/wiki">Index</a>
+<a href="https://github.com/rpicopter/AvrMiniCopter-wiki/wiki">INDEX</a>
